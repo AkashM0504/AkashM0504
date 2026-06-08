@@ -13,13 +13,13 @@ Passionate about building scalable applications and solving real-world problems 
 - 🌱 Currently learning DSA and System Design
 - 🤖 Interested in AI and Machine Learning
 - 🗄️ Strong in SQL and Database Management
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: akashm.bengaluru@gmail.com
 
 ---
 
 ## 🌐 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/akash-m11)
 
 ---
 
