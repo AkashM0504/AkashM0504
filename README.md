@@ -38,7 +38,7 @@ Passionate about building scalable applications, solving real-world problems, an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/akash-m11)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:akashm.bengaluru@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](akashm.bengaluru@gmail.com)
 
 ---
 
@@ -134,11 +134,13 @@ A collection of Data Structures and Algorithms solutions, coding exercises, and 
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AkashM0504&show_icons=true&theme=tokyonight" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashM0504&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkashM0504&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashM0504&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AkashM0504&theme=tokyonight)
 ---
 
 ## 🔥 GitHub Streak
