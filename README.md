@@ -134,15 +134,19 @@ A collection of Data Structures and Algorithms solutions, coding exercises, and 
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkashM0504&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashM0504&layout=compact&theme=github_dark)
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AkashM0504&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashM0504&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AkashM0504&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AkashM0504&theme=tokyonight" />
+</p>
+
 ---
 
 ## 📈 Contribution Graph
