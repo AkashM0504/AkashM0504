@@ -145,14 +145,6 @@ A collection of Data Structures and Algorithms solutions, coding exercises, and 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AkashM0504&theme=tokyonight)
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=AkashM0504&theme=tokyonight" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
